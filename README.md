@@ -1,2 +1,2 @@
-# meowmail
-📬 An mod-mail bot for Revolt
+# MeowMail
+An mod-mail bot for Revolt
